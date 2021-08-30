@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User specific data
+*.csv
+data/json/email.json
+
+# macOS
+*.DS_Store
